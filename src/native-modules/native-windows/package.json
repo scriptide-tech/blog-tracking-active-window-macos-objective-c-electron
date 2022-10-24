@@ -1,0 +1,9 @@
+{
+  "name": "native-windows",
+  "version": "0.1.0",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "license": "ISC",
+  "gypfile": true
+}
